@@ -1,5 +1,6 @@
 # Arquivos de configuração sensíveis
 **/.env
+.env
 venv/
 
 # Cache do Python
