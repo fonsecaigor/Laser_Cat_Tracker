@@ -1,6 +1,5 @@
 # Arquivos de configuração sensíveis
-src/.env/
-src/.env.*
+**/.env
 venv/
 
 # Cache do Python
