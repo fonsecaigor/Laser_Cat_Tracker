@@ -1,0 +1,26 @@
+# Arquivos de configuração sensíveis
+./env
+./env.*
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Banco de dados local (se usar SQLite futuramente)
+*.db
+
+# Configurações do editor (VSCode, PyCharm etc.)
+.vscode/
+.idea/
+
+# Arquivos de build Python
+build/
+dist/
+*.egg-info/
+
+# Sistemas operacionais
+.DS_Store  # MacOS
+Thumbs.db  # Windows
