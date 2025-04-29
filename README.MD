@@ -179,7 +179,7 @@ Ideal para projetos de IoT, automação e estudo de comunicação Serial!
 ```bash
 # Clonar o repositório
 git clone https://github.com/SamuelLucasVieira/laser-cat-tracker.git
-cd laser-cat-tracker
+cd laser-cat-tracker/src
 
 # Criar e ativar o ambiente virtual
 python -m venv venv
@@ -190,5 +190,5 @@ source venv/bin/activate  # Linux/MacOS
 # Instalar dependências
 pip install -r requirements.txt
 
-# Executar\python src/captura_movimentos.py
+# Executar\python captura_movimentos.py
 ```
