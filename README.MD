@@ -190,5 +190,10 @@ source venv/bin/activate  # Linux/MacOS
 # Instalar dependências
 pip install -r requirements.txt
 
-# Executar\python captura_movimentos.py
+# Executar/python captura_movimentos.py
+python captura_movimentos.py
+
+# Executar/python realtime_dashboard.py
+streamlit run realtime_dashboard.py
+
 ```
