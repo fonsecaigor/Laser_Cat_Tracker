@@ -169,7 +169,7 @@ Tabela `movimentos_laser`:
 
 Este projeto foi desenvolvido para demonstrar a integração entre dispositivos físicos (Arduino) e bancos de dados relacionais (PostgreSQL) usando Python como ponte.
 
-Ideal para projetos de IoT, automação e estudo de comunicação Serial!
+Ideal para projetos de IoT, automação e estudo de comunicação Serial! 
 
 
 ---
